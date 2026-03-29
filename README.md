@@ -382,7 +382,7 @@ public LoginPage_PF(WebDriver driver) {
 ## 🚀 How to Run
 
 ```bash
-mvn test -Dsurefire.suiteXmlFiles=testng.xml
+mvn test -Dsurefire.suiteXmlFiles=testng-vwo-normal-pom.xml
 ```
 
 ---
